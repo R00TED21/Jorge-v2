@@ -2453,7 +2453,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 /*-------- Start Banner Area ------------*/
 .banner-area {
-  background: url(https://themegoods-cdn-pzbycso8wng.stackpathdns.com/grandtour/demo/wp-content/uploads/2016/12/Tokyo_Dollarphotoclub_72848283-copy.jpg) center;
+  background: url(../img/Tokyo_Dollarphotoclub_72848283-copy.jpg) center;
   background-size: cover;
 }
 
@@ -2976,7 +2976,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .about-banner {
-  background: url(../img/top-banner.jpg) center;
+  background: url(../img/Tokyo_Dollarphotoclub_72848283-copy.jpg) center;
   background-size: cover;
 }
 
